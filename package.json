@@ -1,0 +1,27 @@
+{
+  "name": "@mandyreal/howtonpm",
+  "version": "1.0.0",
+  "description": "dev env setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "mandyreal",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mandyreal/how-to-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "how",
+    "to"
+  ],
+  "bugs": {
+    "url": "https://github.com/mandyreal/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/mandyreal/how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
